@@ -2,7 +2,6 @@
     <h1>Estudos Lógica de Programação</h1>
     <img width=150 src='https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036'>
     <img width=150 src='http://2.bp.blogspot.com/-NUevUKTYhdc/VLrx4-PbbhI/AAAAAAAABi4/Fjxx1_1q_hU/s1600/URI.png'>
-
 </div>
 
 
