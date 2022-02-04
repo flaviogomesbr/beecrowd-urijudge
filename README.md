@@ -4,16 +4,22 @@
     <img width=150 src='http://2.bp.blogspot.com/-NUevUKTYhdc/VLrx4-PbbhI/AAAAAAAABi4/Fjxx1_1q_hU/s1600/URI.png'>
 </div>
 
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/flaviogomesbr/beecrowd-urijudge?color=blueviolet" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/flaviogomesbr/beecrowd-urijudge?color=blueviolet" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/flaviogomesbr/beecrowd-urijudge?color=blue" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/flaviogomesbr/beecrowd-urijudge?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/flaviogomesbr/beecrowd-urijudge?color=brightgreen" />
+</p>
+
 
 ## Sobre
 
 Resolução em JavaScript (NodeJS) para os desafios da plataforma [beecrowd](https://www.beecrowd.com.br/judge/pt/categories) (antiga URI Online Judge).
 
-[Aqui](https://www.beecrowd.com.br/judge/pt/profile/482835) é o link para o meu usuário na plataforma. Me adicione e bora codar! :)
-
 
 ## Requisitos
-- [Visual Studio](https://visualstudio.microsoft.com/pt-br/) <br>
+- [Visual Studio Code](https://code.visualstudio.com/) <br>
 - [NodeJS](https://nodejs.org/en/) <br>
 
 ## Executando os códigos
