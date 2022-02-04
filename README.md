@@ -17,11 +17,9 @@
 
 Resolução em JavaScript (NodeJS) para os desafios da plataforma [beecrowd](https://www.beecrowd.com.br/judge/pt/categories) (antiga URI Online Judge).
 
-[Aqui](https://www.beecrowd.com.br/judge/pt/profile/482835) é o link para o meu usuário na plataforma. Me adicione e bora codar! :)
-
 
 ## Requisitos
-- [Visual Studio](https://visualstudio.microsoft.com/pt-br/) <br>
+- [Visual Studio Code](https://code.visualstudio.com/) <br>
 - [NodeJS](https://nodejs.org/en/) <br>
 
 ## Executando os códigos
